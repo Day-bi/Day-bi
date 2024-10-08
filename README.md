@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
 
 ### Hi there 👋
-I'm just a little girl. cut in the middle house~
+I'm pretty Potato 🥔
 
 ### Major
 
-- 🎓 B.S : Bigdata management engineering(statistics), Hoseo University (2022)
-- 🎓 B.S : Bigdata management engineering(industrial management), Hoseo University (2022)
+- 🎓 B.S : Bigdata management engineering(Statistics), Hoseo University (2022)
+- 🎓 B.S : Bigdata management engineering(industrial Management Engineering), Hoseo University (2022)
 - 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 ~)
 
 
