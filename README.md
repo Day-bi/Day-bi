@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 
 -->
 
-
-
-
 # Day-bi 🌱 💧
 
 ### Hi there 👋
@@ -31,7 +28,6 @@ I'm pretty Potato 🥔
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
 
 ### Major
-
 - 🎓 B.S : Statistics, Hoseo University (2022)
 - 🎓 B.S : Industrial Management Engineering, Hoseo University (2022)
 - 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 ~ )
