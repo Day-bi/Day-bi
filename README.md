@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 I'm pretty Potato 🥔
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
 
 ### Major
