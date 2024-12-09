@@ -32,8 +32,8 @@ I'm pretty Potato 🥔
 
 ### Major
 
-- 🎓 B.S : Bigdata management engineering(Statistics), Hoseo University (2022)
-- 🎓 B.S : Bigdata management engineering(industrial Management Engineering), Hoseo University (2022)
+- 🎓 B.S : Statistics, Bigdata management engineering, Hoseo University (2022)
+- 🎓 B.S : Industrial Management Engineering, Bigdata management engineering, Hoseo University (2022)
 - 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 ~ )
 
 ### Experience
