@@ -23,19 +23,26 @@ Here are some ideas to get you started:
 
 
 
-# Day-bi 🌱
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
+# Day-bi 🌱 💧
 
 ### Hi there 👋
 I'm pretty Potato 🥔
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
 
 ### Major
 
 - 🎓 B.S : Bigdata management engineering(Statistics), Hoseo University (2022)
 - 🎓 B.S : Bigdata management engineering(industrial Management Engineering), Hoseo University (2022)
-- 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 ~)
+- 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 ~ )
 
+### Experience
+- 💎 와이즈인컴퍼니, 현장실습인턴 (2020.12.21 ~ 2021.02.18)
+- 💎 한국지능정보사회진흥원, 청년인턴 (2021.07.19 - 2021.12.18)
 
+### Contest/Activities
+- 🏆 한국지능정보사회진흥원, 공공데이터청년인턴해커톤 - 장려상 (2021)
+- 🏆 서울특별시, 서울복지정책제안공모전 - 장려상 (2021)
+- 🏆 중소벤처기업부, 인공지능제조데이터분석경진대회 - 우수상 (2024)
 
 ### Tech
 
