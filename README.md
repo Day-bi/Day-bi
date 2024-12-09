@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 - 🔥 Naver boostcourse 1th, AI Basic (2022.01~2022.02)
 - 🌍 빅데이터 연합동아리 BOAZ 20th, 데이터분석 부분 활동 (2023.01~2024.01)
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R studio-75AADB?style=flate&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flate&logo=jupyter&logoColor=white"/> <br/>
+
 -->
 
 # Day-bi 🌱 💧
 
 ### Hi there 👋
-I'm pretty Potato 🥔
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
+![Daybi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Day-bi&show_icons=true&theme=merko)
+
 
 ### Major
 - 🎓 B.S : Statistics, Hoseo University (2018.03 - 2022.02)
@@ -44,5 +46,9 @@ I'm pretty Potato 🥔
 - 🏆 인공지능제조데이터분석경진대회 - 우수상, 중소벤처기업부 (2024)
 
 ### Tech
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-bi)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flate&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/R studio-75AADB?style=flate&logo=rstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flate&logo=jupyter&logoColor=white"/> <br/>
+
+
+### Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
