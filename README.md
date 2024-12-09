@@ -28,12 +28,12 @@ I'm pretty Potato 🥔
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
 
 ### Major
-- 🎓 B.S : Statistics, Hoseo University (2022)
-- 🎓 B.S : Industrial Management Engineering, Hoseo University (2022)
-- 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 ~ )
+- 🎓 B.S : Statistics, Hoseo University (2018.03 - 2022.02)
+- 🎓 B.S : Industrial Management Engineering, Hoseo University (2018.03 - 2022.02)
+- 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 - 2025.08)
 
 ### Experience
-- 💎 현장실습인턴, 와이즈인컴퍼니 (2020.12.21 ~ 2021.02.18)
+- 💎 현장실습인턴, 와이즈인컴퍼니 (2020.12.21 - 2021.02.18)
 - 💎 청년인턴, 한국지능정보사회진흥원 (2021.07.19 - 2021.12.18)
 
 ### Contest/Activities
