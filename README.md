@@ -52,3 +52,5 @@ Here are some ideas to get you started:
 
 ### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:nuripeace99@gmail.com) 
+![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+
