@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 
 ### Major
-- 🎓 B.S : Statistics, Hoseo University (2018.03 - 2022.02)
+- 🎓 B.S : Statistics, Hoseo University (2018.03 - 2022.08)
 - 🎓 B.S : Industrial Management Engineering, Hoseo University (2018.03 - 2022.08)
-- 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 - )
+- 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 - 2025.08)
 
 ### Experience
 - 💎 현장실습인턴, 와이즈인컴퍼니 (2020.12.21 - 2021.02.18)
