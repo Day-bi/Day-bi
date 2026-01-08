@@ -49,8 +49,8 @@ Here are some ideas to get you started:
 - ✨ 통계데이터인공지능활용대회, 통계청 (2022)
 
 ### Tech
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-bi)](https://github.com/anuraghazra/github-readme-stats)
-
+<[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Day-bi)](https://github.com/anuraghazra/github-readme-stats)
+>
 
 
 ### Contact
