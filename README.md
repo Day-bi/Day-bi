@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 # Day-bi 🌱 💧
 
 ### Hi there 👋
-
-![Daybi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Day-bi&show_icons=true&theme=merko)
+- 🔭 I’m currently working on ... Comformity Institute
 
 
 ### Major
