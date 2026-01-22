@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 # Day-bi 🌱 💧
 
 ### Hi there 👋
-- 🔭 I’m currently working on ... Comformity Institute
+- 🔭 I’m currently working on ... Korea Conformity Laboratories 
 
 
 ### Major
@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 🎓 M.S : Data science, Seoul University of Science and Technology (2022.09 - 2025.08)
 
 ### Experience
-- 💎 현장실습인턴, 와이즈인컴퍼니 (2020.12.21 - 2021.02.18)
-- 💎 청년인턴, 한국지능정보사회진흥원 (2021.07.19 - 2021.12.18)
+- 💎 Intern, 와이즈인컴퍼니 (2020.12.21 - 2021.02.18)
+- 💎 Intern, 한국지능정보사회진흥원 (2021.07.19 - 2021.12.18)
 
 ### Contest
 - 🏆 [공공데이터청년인턴해커톤](https://github.com/Day-bi/2021-Opendata-hackathon-Foodbank-) - 장려상, 한국지능정보사회진흥원 (2021)
